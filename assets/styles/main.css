@@ -1,4 +1,10 @@
-﻿/* Main styles for my blog */
+﻿/*Adding a header margin for a trivial tweak*/
+h1 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+/* Main styles for my blog */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
